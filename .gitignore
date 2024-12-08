@@ -1,0 +1,16 @@
+# Ignore environment files
+client/.env
+server/.env
+socket/.env
+
+# Ignore node_modules directories
+client/node_modules/
+server/node_modules/
+socket/node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
